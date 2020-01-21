@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork.3.6.2</string>
+    <string name="title">калькулятор</string>
+    <string name="a">первое число</string>
+    <string name="b">второе число</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="result">результат</string>
+</resources>
